@@ -8,7 +8,12 @@ Tengo experiencia en Analisis Descriptivos, Limpieza y Transformación de datos 
 
 ## Análisis de datos
 ![alt text](agence-olloweb-qfp4-Ud6Fyg-unsplash.jpg)
-Estoy especializado en el análisis de datos. Los resultados, las tendencias y las recomendaciones se presentan claramente en informes o herramientas.
+* Estoy especializado en el análisis de datos. Los resultados, las tendencias y las recomendaciones se presentan claramente en informes o herramientas.
+
+## visualización de datos
+![alt text](luke-chesser-JKUTrJ4vK00-unsplash (1).jpg)
+Foto de <a href="https://unsplash.com/es/@lukechesser?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Luke Chesser</a> en <a href="https://unsplash.com/es/fotos/graficos-de-analisis-de-rendimiento-en-la-pantalla-de-un-portatil-JKUTrJ4vK00?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+* Por medio de visualizaciones o dasboard muestro los datos de manera interactiva. Gracias a esto usted puede explorar y examinar los patrones y tendencias de los datos solo haciendo clics.
 
 # About Me
 *Working in Business Intelligence and creating educational content*
