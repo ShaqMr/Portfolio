@@ -3,7 +3,10 @@
 
 # Lo que puedo hacer
 Como Analista de datos y Analista BI, convierto datos dispersos y sin valor en información estructurada y valiosa aptas para la toma de decisiones basadas en datos. Mi objetivo es mejorar los resultados, tomar las decisiones correctas y ahorrar costes.
+
 Tengo experiencia en Analisis Descriptivos, Limpieza y Transformación de datos y uso técnicas de Visualización de Datos para la presentación de mis informes. Utilizo principalmente Power BI y Python para mis proyectos de datos.
+
+![alt text](_eee8d8a9-def0-42f9-b589-1ad9a9b74855.jpg) Estoy especializado en el análisis de datos. Los resultados, las tendencias y las recomendaciones se presentan claramente en informes o herramientas.
 
 # About Me
 *Working in Business Intelligence and creating educational content*
