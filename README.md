@@ -6,7 +6,7 @@ Como Analista de datos y Analista BI, convierto datos dispersos y sin valor en i
 
 Tengo experiencia en Analisis Descriptivos, Limpieza y Transformación de datos y uso técnicas de Visualización de Datos para la presentación de mis informes. Utilizo principalmente Power BI y Python para mis proyectos de datos.
 
-![alt text](_eee8d8a9-def0-42f9-b589-1ad9a9b74855.jpg) Estoy especializado en el análisis de datos. Los resultados, las tendencias y las recomendaciones se presentan claramente en informes o herramientas.
+![alt text](agence-olloweb-qfp4-Ud6Fyg-unsplash.jpg) Estoy especializado en el análisis de datos. Los resultados, las tendencias y las recomendaciones se presentan claramente en informes o herramientas.
 
 # About Me
 *Working in Business Intelligence and creating educational content*
