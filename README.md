@@ -23,9 +23,9 @@ Por medio de visualizaciones o dasboard muestro los datos de manera interactiva.
 Hola, mi nombre es **Shaquill Márquez** y trabajo en el área de datos como Analista. Tengo un pregrado en ciencias económicas (Economista, Universidad del Atlántico - Col).  
 Desde que era un niño siempre me interesó entender como funciona el mundo, unir rompecabezas y resolver acertijos. Fue así como la vida me llevo al mundo de los datos: los datos cuentan una historia que te permite entender situaciones actuales de cualquier índole, resolver incógnitas y llegar conclusiones para tomar las mejores desiciones.
 Ver en los datos lo que nadie puede ver es mi reto.
-![alt text](Imagen1.jpg)
+[![alt text](Imagen2.jpg)](##CONTACTO)
 
-# My Best Projects!!
+# Mis Proyectos
 
 # [Project 1: Automate Payment Receipts in Excel](https://www.youtube.com/watch?v=qW3ih96Tnpk)
 ![alt text](paul-calescu-KW3m50XRhjk-unsplash.jpg)
@@ -61,3 +61,7 @@ In this tutorial you will learn how to create an automated Sales Web App
 * **Input:** Database in Excel
 * **Output:** Automated Sales Web App with Streamlit
 
+
+## CONTACTO
+Email: shaquillmarquez@gmail.com
+[LinkeIn:www.linkedin.com/in/econshaquillmarquezc](www.linkedin.com/in/econshaquillmarquezc) 
